@@ -17,7 +17,8 @@
       ],
       "wiiData": {
         "menuImage": "https://avatars.githubusercontent.com/u/84575656",
-        "detailedGif": "/assets/wii/apps/portafolios_detail.gif"
+        "detailedGif": "/assets/wii/apps/portafolios_detail.gif",
+        "soundEffect": "/assets/wii/apps/chamba.mp3"
       },
       "tinderData": {
         "distance": 5,
@@ -44,7 +45,8 @@
       ],
       "wiiData": {
         "menuImage": "/assets/wii/apps/codes_main.gif",
-        "detailedGif": "/assets/wii/apps/codes_detail.gif"
+        "detailedGif": "/assets/wii/apps/codes_detail.gif",
+        "soundEffect": "/assets/wii/apps/dinero.mp3"
       },
       "tinderData": {
         "distance": 10,
@@ -95,7 +97,8 @@
       ],
       "wiiData": {
         "menuImage": "/assets/wii/apps/share_main.gif",
-        "detailedGif": "/assets/wii/apps/share_detail.gif"
+        "detailedGif": "/assets/wii/apps/share_detail.gif",
+        "soundEffect": "/assets/wii/apps/tiktokoutro.mp3"
       },
       "tinderData": {
         "distance": 20,
