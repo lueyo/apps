@@ -137,6 +137,62 @@
         "size": "2x2",
         "position": "5,1"
       }
+    },
+    {
+      "url": "https://bingosanxe.lueyo.es",
+      "name": "Bingo Sánchez",
+      "description": "Bingo de Pedro Sánchez, adivina las palabras que usará el presidente en su discurso",
+      "icon": "https://bingosanxe.lueyo.es/favicon.png",
+      "nsfw": true,
+      "type": "other",
+      "teches": [
+        { "name": "Python", "url": "https://img.shields.io/badge/Python-yellow" }
+      ],
+      "wiiData": {
+        "menuImage": "https://bingosanxe.lueyo.es/favicon.png",
+        "detailedGif": "/assets/wii/apps/bingosanxe_detail.gif",
+        "soundEffect": "/assets/wii/apps/himno_psoe.mp3"
+      },
+      "tinderData": {
+        "distance": 15,
+        "date": "2019-08-20T00:00:00Z",
+        "tinderDescription": "App Cinco especial"
+      },
+      "win8Data": {
+        "win8Image": "https://app5.com/win8.png",
+        "color": "#FF00FF",
+        "isBlack": false,
+        "size": "2x2",
+        "position": "5,1"
+      }
+    },
+    {
+      "url": "https://ds.lueyo.es",
+      "name": "DS Menu",
+      "description": "Bingo de Pedro Sánchez, adivina las palabras que usará el presidente en su discurso",
+      "icon": "https://ds.lueyo.es/src/favicon.png",
+      "type": "other",
+      "teches": [
+        { "name": "Python", "url": "https://img.shields.io/badge/Python-yellow" }
+      ],
+      "wiiData": {
+        "menuImage": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fallvectorlogo.com%2Fimg%2F2016%2F03%2Fnintendo-ds-logo.png&f=1&nofb=1&ipt=dc3f2c8deab9452d7de9b90889b6ac2b36cc83787c331d0236e8b97187bd1cf0",
+        "detailedGif": "https://raw.githubusercontent.com/lueyo/lueyo/main/DSMenu.png",
+        "soundEffect": "/assets/wii/apps/ds_start.mp3"
+      },
+      "tinderData": {
+        "distance": 15,
+        "date": "2019-08-20T00:00:00Z",
+        "tinderDescription": "App Cinco especial"
+      },
+      "win8Data": {
+        "win8Image": "https://app5.com/win8.png",
+        "color": "#FF00FF",
+        "isBlack": false,
+        "size": "2x2",
+        "position": "5,1"
+      }
     }
+
   ]
 }
