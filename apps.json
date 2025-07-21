@@ -194,10 +194,10 @@
       }
     },
     {
-      "url": "https://ds.lueyo.es",
+      "url": "https://lueyo.github.io/virus-policia/",
       "name": "Virus de la Policía",
       "description": "Recreación del virus que suplantaba a la policía nacional de españa",
-      "icon": "https://ds.lueyo.es/src/favicon.png",
+      "icon": "https://lueyo.github.io/virus-policia/logo3.png",
       "nsfw": true,
       "type": "other",
       "teches": [
