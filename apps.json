@@ -202,7 +202,7 @@
         { "name": "Python", "url": "https://img.shields.io/badge/Python-yellow" }
       ],
       "wiiData": {
-        "menuImage": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fallvectorlogo.com%2Fimg%2F2016%2F03%2Fnintendo-ds-logo.png&f=1&nofb=1&ipt=dc3f2c8deab9452d7de9b90889b6ac2b36cc83787c331d0236e8b97187bd1cf0",
+        "menuImage": "/assets/wii/apps/ds_main.png",
         "detailedGif": "https://raw.githubusercontent.com/lueyo/lueyo/main/DSMenu.png",
         "soundEffect": "/assets/wii/apps/ds_start.mp3"
       },
