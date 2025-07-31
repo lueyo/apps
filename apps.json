@@ -86,6 +86,32 @@
         "position": "3,1"
       }
     },
+
+    {
+      "url": "https://chat.lueyo.es",
+      "name": "Lueyo Chat",
+      "description": "Chat Web donde los mensajes no se almacenan",
+      "icon": "https://app4.com/icon.png",
+      "type": "shell",
+      "teches": [
+        { "name": "Bash", "url": "https://img.shields.io/badge/Bash-black" }
+      ],
+      "wiiData": {
+        "menuImage": "/assets/wii/apps/chat_main.png",
+        "detailedGif": "/assets/wii/apps/chat_detail.png"
+      },
+      "tinderData": {
+        "distance": 20,
+        "date": "2020-01-01T00:00:00Z"
+      },
+      "win8Data": {
+        "win8Image": "https://app4.com/win8.png",
+        "color": "#FFFF00",
+        "isBlack": true,
+        "size": "1x1",
+        "position": "4,1"
+      }
+    },
     {
       "url": "https://tk.lueyo.es",
       "name": "Link Sharer",
