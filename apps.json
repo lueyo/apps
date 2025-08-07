@@ -165,6 +165,32 @@
       }
     },
     {
+      "url": "https://rps.lueyo.es/",
+      "name": "Piedra, Papel o Tijera",
+      "description": "Juega a piedra, papel o tijera a distancia con un amigo",
+      "icon": "https://app5.com/icon.png",
+      "type": "other",
+      "teches": [
+        { "name": "Python", "url": "https://img.shields.io/badge/Python-yellow" }
+      ],
+      "wiiData": {
+        "menuImage": "/assets/wii/apps/ppt_main.png",
+        "detailedGif": "https://raw.githubusercontent.com/lueyo/lueyo/main/piedrapapeltijera.png"
+      },
+      "tinderData": {
+        "distance": 15,
+        "date": "2019-08-20T00:00:00Z",
+        "tinderDescription": "App Cinco especial"
+      },
+      "win8Data": {
+        "win8Image": "https://app5.com/win8.png",
+        "color": "#FF00FF",
+        "isBlack": false,
+        "size": "2x2",
+        "position": "5,1"
+      }
+    },
+    {
       "url": "https://bingosanxe.lueyo.es",
       "name": "Bingo Sánchez",
       "description": "Bingo de Pedro Sánchez, adivina las palabras que usará el presidente en su discurso",
