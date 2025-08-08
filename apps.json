@@ -4,6 +4,7 @@
   "theme": "light",
   "url": "https://ejemplo.com",
   "icon": "https://ejemplo.com/icon.png",
+  "email": "tonisuarez2005@gmail.com",
   "apps": [
     {
       "url": "https://lueyo.es",
@@ -38,7 +39,7 @@
       "url": "https://codes.lueyo.es/",
       "name": "Lueyo Codes",
       "description": "Gestor de codigos de descuento",
-      "icon": "https://app2.com/icon.png",
+      "icon": "https://raw.githubusercontent.com/lueyo/lueyo/main/codes.png",
       "type": "mobile",
       "teches": [
         { "name": "React Native", "url": "https://img.shields.io/badge/React_Native-blue" }
@@ -64,7 +65,7 @@
       "url": "https://short.lueyo.es",
       "name": "Link Shorter",
       "description": "Acortador de links",
-      "icon": "https://app3.com/icon.png",
+      "icon": "https://raw.githubusercontent.com/lueyo/lueyo/main/shorter.png",
       "type": "desktop",
       "teches": [
         { "name": "Electron", "url": "https://img.shields.io/badge/Electron-gray" }
@@ -91,7 +92,7 @@
       "url": "https://chat.lueyo.es",
       "name": "Lueyo Chat",
       "description": "Chat Web donde los mensajes no se almacenan",
-      "icon": "https://app4.com/icon.png",
+      "icon": "/assets/wii/apps/chat_detail.png",
       "type": "shell",
       "teches": [
         { "name": "Bash", "url": "https://img.shields.io/badge/Bash-black" }
@@ -116,7 +117,7 @@
       "url": "https://ttk.lueyo.es",
       "name": "Link Sharer",
       "description": "Compartidor de videos de redes sociales",
-      "icon": "https://app4.com/icon.png",
+      "icon": "https://raw.githubusercontent.com/lueyo/lueyo/main/shared.png",
       "type": "shell",
       "teches": [
         { "name": "Bash", "url": "https://img.shields.io/badge/Bash-black" }
@@ -142,7 +143,7 @@
       "url": "https://lueyo.github.io/medidor/",
       "name": "Medidor",
       "description": "Medidor de maldad e inteligencia para sacar capturas y compartir",
-      "icon": "https://app5.com/icon.png",
+      "icon": "/assets/wii/apps/medidor_main.png",
       "type": "other",
       "teches": [
         { "name": "Python", "url": "https://img.shields.io/badge/Python-yellow" }
@@ -168,7 +169,7 @@
       "url": "https://rps.lueyo.es/",
       "name": "Piedra, Papel o Tijera",
       "description": "Juega a piedra, papel o tijera a distancia con un amigo",
-      "icon": "https://app5.com/icon.png",
+      "icon": "/assets/wii/apps/ppt_main.png",
       "type": "other",
       "teches": [
         { "name": "Python", "url": "https://img.shields.io/badge/Python-yellow" }
@@ -249,7 +250,7 @@
       "url": "https://lueyo.github.io/virus-policia/",
       "name": "Virus de la Policía",
       "description": "Recreación del virus que suplantaba a la policía nacional de españa",
-      "icon": "https://lueyo.github.io/virus-policia/logo3.png",
+      "icon": "/assets/wii/apps/viruspolicia.png",
       "nsfw": true,
       "type": "other",
       "teches": [
