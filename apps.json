@@ -247,6 +247,33 @@
       }
     },
     {
+      "url": "https://paste.lueyo.es",
+      "name": "Lueyo Paste",
+      "description": "Pega texto y compártelo con un enlace",
+      "icon": "/assets/wii/apps/lueyopaste_main.png",
+      "type": "other",
+      "teches": [
+        { "name": "Python", "url": "https://img.shields.io/badge/Python-yellow" }
+      ],
+      "wiiData": {
+        "menuImage": "/assets/wii/apps/lueyopaste_main.png",
+        "detailedGif": "/assets/wii/apps/lueyopaste_detail.png"
+
+      },
+      "tinderData": {
+        "distance": 15,
+        "date": "2019-08-20T00:00:00Z",
+        "tinderDescription": "App Cinco especial"
+      },
+      "win8Data": {
+        "win8Image": "https://app5.com/win8.png",
+        "color": "#FF00FF",
+        "isBlack": false,
+        "size": "2x2",
+        "position": "5,1"
+      }
+    },
+    {
       "url": "https://lueyo.github.io/virus-policia/",
       "name": "Virus de la Policía",
       "description": "Recreación del virus que suplantaba a la policía nacional de españa",
