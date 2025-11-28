@@ -328,7 +328,31 @@
         "size": "2x2",
         "position": "5,1"
       }
+    },{
+    "url": "https://clash.lueyo.es/",
+      "name": "Clash Impostor",
+      "description": "Juego del impostor con cartas de clash royale",
+      "icon": "/assets/wii/apps/clashimpostor_main.png",
+      "type": "other",
+      "teches": [
+        { "name": "Python", "url": "https://img.shields.io/badge/Python-yellow" }
+      ],
+      "wiiData": {
+        "menuImage": "/assets/wii/apps/clashimpostor_main.png",
+        "detailedGif": "/assets/wii/apps/clashimpostor_detail.png"
+      },
+      "tinderData": {
+        "distance": 15,
+        "date": "2019-08-20T00:00:00Z",
+        "tinderDescription": "App Cinco especial"
+      },
+      "win8Data": {
+        "win8Image": "https://app5.com/win8.png",
+        "color": "#FF00FF",
+        "isBlack": false,
+        "size": "2x2",
+        "position": "5,1"
+      }
     }
-
   ]
 }
